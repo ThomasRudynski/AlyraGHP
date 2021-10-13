@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/AlyraGHP/whitelist-system-with-heroku-master/static/css/main.b100e6da.chunk.css",
-    "main.js": "/AlyraGHP/whitelist-system-with-heroku-master/static/js/main.ed72b7cd.chunk.js",
-    "main.js.map": "/AlyraGHP/whitelist-system-with-heroku-master/static/js/main.ed72b7cd.chunk.js.map",
-    "runtime-main.js": "/AlyraGHP/whitelist-system-with-heroku-master/static/js/runtime-main.4d69fafa.js",
-    "runtime-main.js.map": "/AlyraGHP/whitelist-system-with-heroku-master/static/js/runtime-main.4d69fafa.js.map",
-    "static/css/2.9ff99f11.chunk.css": "/AlyraGHP/whitelist-system-with-heroku-master/static/css/2.9ff99f11.chunk.css",
-    "static/js/2.9bc8a53e.chunk.js": "/AlyraGHP/whitelist-system-with-heroku-master/static/js/2.9bc8a53e.chunk.js",
-    "static/js/2.9bc8a53e.chunk.js.map": "/AlyraGHP/whitelist-system-with-heroku-master/static/js/2.9bc8a53e.chunk.js.map",
-    "index.html": "/AlyraGHP/whitelist-system-with-heroku-master/index.html",
-    "precache-manifest.5601539a5c86e72d6b4ae923fdb8cca3.js": "/AlyraGHP/whitelist-system-with-heroku-master/precache-manifest.5601539a5c86e72d6b4ae923fdb8cca3.js",
-    "service-worker.js": "/AlyraGHP/whitelist-system-with-heroku-master/service-worker.js",
-    "static/css/2.9ff99f11.chunk.css.map": "/AlyraGHP/whitelist-system-with-heroku-master/static/css/2.9ff99f11.chunk.css.map",
-    "static/css/main.b100e6da.chunk.css.map": "/AlyraGHP/whitelist-system-with-heroku-master/static/css/main.b100e6da.chunk.css.map"
+    "main.css": "/AlyraGHP/static/css/main.b100e6da.chunk.css",
+    "main.js": "/AlyraGHP/static/js/main.eb625fc4.chunk.js",
+    "main.js.map": "/AlyraGHP/static/js/main.eb625fc4.chunk.js.map",
+    "runtime-main.js": "/AlyraGHP/static/js/runtime-main.bc87abae.js",
+    "runtime-main.js.map": "/AlyraGHP/static/js/runtime-main.bc87abae.js.map",
+    "static/css/2.9ff99f11.chunk.css": "/AlyraGHP/static/css/2.9ff99f11.chunk.css",
+    "static/js/2.27c64dc6.chunk.js": "/AlyraGHP/static/js/2.27c64dc6.chunk.js",
+    "static/js/2.27c64dc6.chunk.js.map": "/AlyraGHP/static/js/2.27c64dc6.chunk.js.map",
+    "index.html": "/AlyraGHP/index.html",
+    "precache-manifest.854d650e54fa13d5ddbd06b2374d553d.js": "/AlyraGHP/precache-manifest.854d650e54fa13d5ddbd06b2374d553d.js",
+    "service-worker.js": "/AlyraGHP/service-worker.js",
+    "static/css/2.9ff99f11.chunk.css.map": "/AlyraGHP/static/css/2.9ff99f11.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/AlyraGHP/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d69fafa.js",
+    "static/js/runtime-main.bc87abae.js",
     "static/css/2.9ff99f11.chunk.css",
-    "static/js/2.9bc8a53e.chunk.js",
+    "static/js/2.27c64dc6.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.ed72b7cd.chunk.js"
+    "static/js/main.eb625fc4.chunk.js"
   ]
 }
